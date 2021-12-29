@@ -1,0 +1,3 @@
+[32mINFO    [0m Tests.test_search:test_search.py:42 对搜索框进行验证
+[35mDEBUG   [0m Tests.test_search:test_search.py:45 输入异常值-空格： 
+[35mDEBUG   [0m Tests.test_search:test_search.py:47 点击全网搜

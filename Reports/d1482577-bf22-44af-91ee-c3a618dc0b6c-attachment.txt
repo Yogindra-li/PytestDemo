@@ -1,0 +1,4 @@
+[32mINFO    [0m Tests.test_search:test_search.py:42 对搜索框进行验证
+[35mDEBUG   [0m Tests.test_search:test_search.py:45 输入汉字：你好
+[35mDEBUG   [0m Tests.test_search:test_search.py:47 点击全网搜
+[32mINFO    [0m Tests.test_search:test_search.py:62 测试成功！
